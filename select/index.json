@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "怒鳴るゆめ",
+  "base_artist": "神聖かまってちゃん",
+  "createdAt": "2025-12-23T22:32:52.757390Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "怒鳴るゆめ",
+      "artist": "神聖かまってちゃん",
+      "has_synced": true,
+      "path": "select/01_怒鳴るゆめ_神聖かまってちゃん.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "怒鳴るゆめ",
+      "artist": "Shinsei Kamattechan",
+      "has_synced": true,
+      "path": "select/02_怒鳴るゆめ_Shinsei_Kamattechan.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "怒鳴るゆめ",
+      "artist": "神聖かまってちゃん",
+      "has_synced": false,
+      "path": "select/03_怒鳴るゆめ_神聖かまってちゃん.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "怒鳴るゆめ",
+      "artist": "Shinsei Kamattechan",
+      "has_synced": true,
+      "path": "select/04_怒鳴るゆめ_Shinsei_Kamattechan.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "怒鳴るゆめ",
+      "artist": "神聖かまってちゃん",
+      "has_synced": false,
+      "path": "select/pl_01_怒鳴るゆめ_神聖かまってちゃん.txt"
+    }
+  ]
+}
